@@ -1,0 +1,10 @@
+{
+  "name": "x-daily-reminders",
+  "schedule": [
+    {"time": "09:00", "timezone": "Asia/Shanghai", "label": "morning"},
+    {"time": "12:00", "timezone": "Asia/Shanghai", "label": "noon"},
+    {"time": "20:00", "timezone": "Asia/Shanghai", "label": "evening"}
+  ],
+  "action": "send_tweet_reminder",
+  "active": true
+}
