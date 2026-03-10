@@ -1,16 +1,18 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** wang rain
+- **What to call them:** 雨哥
+- **Timezone:** Asia/Shanghai (GMT+8)
+- **Notes:** Telegram ID: 1682060517
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+**搞钱项目**：X 账号运营（技术干货 + AI 前沿）
+- 起始粉丝：181（2026-03-10）
+- 目标：3 个月 5000 粉，月收入$500+
+- 分工：用户负责手动发推，AI 负责内容创作
+
+**性格**：信任 AI、愿意尝试新事物、行动派
 
 ---
 
