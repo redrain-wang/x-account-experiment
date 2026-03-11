@@ -16,6 +16,14 @@
     "easy-search": {
       "version": "1.0.0",
       "installedAt": 1773185156953
+    },
+    "xiaohongshu-auto-publish": {
+      "version": "1.0.0",
+      "installedAt": 1773208561295
+    },
+    "xiaohongshu-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1773208605750
     }
   }
 }

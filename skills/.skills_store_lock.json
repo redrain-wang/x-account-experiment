@@ -12,6 +12,18 @@
       "zip_url": "http://lightmake.site/api/v1/download?slug=easy-search",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "xiaohongshu-auto-publish": {
+      "name": "Xiaohongshu Auto Publish",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=xiaohongshu-auto-publish",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "xiaohongshu-mcp": {
+      "name": "Xiaohongshu (小红书) Automation",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=xiaohongshu-mcp",
+      "source": "skillhub",
+      "version": "1.0.0"
     }
   }
 }
