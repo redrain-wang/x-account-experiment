@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "web-search-instant-1-1-0": {
+      "name": "Web Search Instant 1.1.0",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=web-search-instant-1-1-0",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "easy-search": {
+      "name": "Easy Search",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=easy-search",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}

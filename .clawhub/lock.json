@@ -8,6 +8,14 @@
     "sonoscli": {
       "version": "1.0.0",
       "installedAt": 1773063842735
+    },
+    "web-search-instant-1-1-0": {
+      "version": "1.0.0",
+      "installedAt": 1773185141414
+    },
+    "easy-search": {
+      "version": "1.0.0",
+      "installedAt": 1773185156953
     }
   }
 }
