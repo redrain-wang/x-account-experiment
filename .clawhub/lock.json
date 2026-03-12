@@ -24,6 +24,10 @@
     "xiaohongshu-mcp": {
       "version": "1.0.0",
       "installedAt": 1773208605750
+    },
+    "daily-hot-push": {
+      "version": "1.0.0",
+      "installedAt": 1773270797630
     }
   }
 }

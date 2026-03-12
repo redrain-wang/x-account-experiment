@@ -24,6 +24,12 @@
       "zip_url": "http://lightmake.site/api/v1/download?slug=xiaohongshu-mcp",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "daily-hot-push": {
+      "name": "Daily Hot Push",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=daily-hot-push",
+      "source": "skillhub",
+      "version": "1.0.0"
     }
   }
 }
