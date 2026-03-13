@@ -28,6 +28,10 @@
     "daily-hot-push": {
       "version": "1.0.0",
       "installedAt": 1773270797630
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1773364731487
     }
   }
 }
