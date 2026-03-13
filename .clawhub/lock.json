@@ -32,6 +32,14 @@
     "tavily-search": {
       "version": "1.0.0",
       "installedAt": 1773364731487
+    },
+    "github-trending": {
+      "version": "1.0.0",
+      "installedAt": 1773367891337
+    },
+    "github-search": {
+      "version": "1.0.0",
+      "installedAt": 1773367896622
     }
   }
 }

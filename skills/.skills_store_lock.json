@@ -36,6 +36,18 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=tavily-search",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "github-trending": {
+      "name": "Github Trending",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-trending",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github-search": {
+      "name": "github-search",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-search",
+      "source": "skillhub",
+      "version": "1.0.0"
     }
   }
 }
