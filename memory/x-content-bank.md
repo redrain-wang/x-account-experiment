@@ -85,84 +85,150 @@ What's your biggest AI delegation win? 👇
 
 ### 第 19 天（2026-03-28 周六）
 
-#### 早 9:00 - AI 工具推荐
+#### 早 9:00 - 周末轻松话题
 ```
-🛠️ Saturday Tool Pick: AI-Powered Reading List
+☕ Saturday Morning Thought:
 
-Tool: Readwise Reader
+What's your AI "aha moment"?
 
-What it does:
-• Save articles, PDFs, tweets to one place
-• AI summarizes key points
-• Highlights sync across devices
-• Built-in spaced repetition
+Mine was when I realized:
+AI doesn't replace my judgment.
+It amplifies my output.
 
-Why I love it:
-✅ Actually read what I save
-✅ AI highlights save time
-✅ Search across everything I've read
+The difference?
+• I decide WHAT to build
+• AI helps me build it FASTER
+• I still own the quality
 
-Perfect for weekend learning sessions.
+That shift changed everything.
 
-Free trial: 14 days, then $8/month.
-
-Your reading list tool?
-#LearningTools #AI #Productivity
+What was your AI turning point?
+#SaturdayThoughts #AIjourney
 ```
 
-#### 午 12:00 - 周复盘 (Week 4 Roundup)
+#### 午 12:00 - 周末项目灵感
+```
+🛠️ Weekend Project Idea: Build a Personal AI Assistant
+
+Not another chatbot. Something useful:
+
+1. Scrape your own notes/docs
+2. Add a simple RAG layer
+3. Ask questions about YOUR stuff
+
+Tools I'd use:
+• LangChain or LlamaIndex
+• SQLite + embeddings
+• Streamlit for UI
+
+Time: 2-4 hours
+Value: Priceless
+
+Building something this weekend?
+#WeekendProject #RAG #AI
+```
+
+#### 晚 20:00 - 周六互动
+```
+🌙 Saturday Night Question:
+
+What's your tech setup right now?
+
+Mine:
+• Laptop: MacBook Pro M2
+• Editor: Cursor (VS Code fork)
+• Terminal: Warp
+• AI: Claude 3.5 + GPT-4.5
+
+Curious what others use. Drop yours below! 👇
+
+Bonus: What's one tool you can't live without?
+#DevSetup #SaturdayNight
+```
+
+---
+
+**字数统计：**
+- 早 9:00：约 220 字符
+- 午 12:00：约 260 字符
+- 晚 20:00：约 240 字符
+
+**配图建议：**
+- 早 9:00：1:1 咖啡 + 笔记本温馨风格
+- 午 12:00：1:1 项目架构图/技术栈图
+- 晚 20:00：1:1 设备展示图（极简桌面）
+
+---
+
+### 第 20 天（2026-03-29 周日）
+
+#### 早 9:00 - 周日复盘
 ```
 📊 Week 4 Roundup - Build in Public
 
 This week's numbers:
-• Followers: 228 → 267 (+39, best week yet!)
-• Tweets: 21 posts (daily x 3)
-• Notes: 2 articles
+• Followers: 228 → ??? (tracking)
+• Tweets: 21 posts
+• Engagement: Steady growth
 
-Top performing content:
-1. AI pair programming rules (52 likes)
-2. Agentic AI news (48 likes)
-3. Friday automation question (41 likes)
+Top content:
+1. AI pair programming rules
+2. Agentic AI news
+3. Friday automation tips
 
-Learnings:
-• Specific rules/frameworks resonate
-• AI news with concrete data wins
-• Questions drive engagement
+Key learning:
+Consistency compounds. Small daily actions → big results.
 
-Week 5 goal: Hit 350 followers!
-Focus: More "how I use AI" posts.
+Week 5 focus: More interactive content, deeper technical threads.
 
-Thanks for following along 🙏
+Thanks for following along! 🙏
 #buildinpublic #WeeklyRoundup
 ```
 
-#### 晚 20:00 - 周末互动 (Saturday Night)
+#### 午 12:00 - 行业思考
 ```
-🌙 Saturday Night Question:
+🤔 Unpopular Opinion:
 
-What's your weekend AI project?
+Most "AI agents" aren't agents. They're just chatbots with extra steps.
 
-Mine:
-Building a personal RAG system with my own notes.
+Real agents should:
+• Execute multi-step tasks autonomously
+• Handle errors without human intervention
+• Learn from past interactions
 
-Goal: Ask AI questions about stuff I've read/saved, get answers with citations.
+We're not there yet. But we're closer than ever.
 
-Weekend vibe: Tinker, learn, no pressure.
+What's your take on the "agent" hype?
+#AIAgents #RealityCheck
+```
 
-What are you building this weekend? 👇
-#WeekendProject #AI #RAG
+#### 晚 20:00 - 周日准备
+```
+🌙 Sunday Prep: Week 5 Goals
+
+My plan:
+• Post 3x daily (consistency)
+• Engage with 10 big accounts
+• Write 1 long-form thread
+• Test new content formats
+
+Goal: Hit 300 followers by Friday.
+
+What's your goal this week?
+Let's hold each other accountable 👇
+#SundayPrep #Goals #buildinpublic
 ```
 
 ---
 
 **字数统计：**
 - 早 9:00：约 250 字符
-- 午 12:00：约 270 字符
-- 晚 20:00：约 240 字符
+- 午 12:00：约 240 字符
+- 晚 20:00：约 230 字符
 
 **配图建议：**
-- 早 9:00：1:1 阅读器界面风格（极简科技风）
-- 午 12:00：1:1 数据图表风格（周复盘）
-- 晚 20:00：1:1 轻松周末氛围（代码/项目图）
+- 早 9:00：1:1 数据图表风格
+- 午 12:00：1:1 思考/问号概念图
+- 晚 20:00：1:1 计划/清单风格
 
 ---
