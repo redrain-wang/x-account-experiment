@@ -2,8 +2,7 @@
 
 **更新记录**：
 - 2026-03-28 08:15：生成 Day 21-27（7 天 × 3 条 = 21 条推文）
-- 2026-04-03 21:30：生成 Day 28-34（7 天 × 3 条 = 21 条推文）
-- 内容方向：AI 工具实战 + 技术思考 + 互动话题 + 教程系列
+- 内容方向：AI 工具实战 + 技术思考 + 互动话题
 
 ---
 
@@ -508,515 +507,72 @@ Drop your stack below! Stealing good ideas 😄
 
 ### 第 28 天（2026-04-04 周六）
 
-#### 早 9:00 - 周末工具
+#### 早 9:00 - 周末思考
 ```
-🛠️ Saturday Tool Pick: Perplexity Pro
+☕ Saturday Realization:
 
-Been using it for 3 months. Here's why it stuck:
+Stop optimizing your tool stack.
+Start shipping.
 
-• Sources cited (no hallucination guessing)
-• Follow-up questions actually work
-• Pro version: GPT-4 + Claude + custom models
+I spent 3 months finding the "perfect" AI setup.
+Then I just picked one and built.
 
-Use case: Research before coding.
-Saves 30+ min per project.
+Result:
+• 3 shipped projects
+• 2.5k lines of code
+• Actually learned something
 
-Cost: $20/mo
-ROI: 10x for me.
+Tools don't make you productive.
+Shipping does.
 
-What's your research stack?
-#AITools #Research #Saturday
+What are you building this weekend?
+#SaturdayMotivation #BuildWithAI
 ```
 
-#### 午 12:00 - 前沿快讯
+#### 午 12:00 - 周末小项目
 ```
-📰 AI Week in Review (March 29 - April 4)
+🛠️ Weekend Build: AI Commit Message Generator
 
-• OpenAI: o3-mini now available to Plus users
-• Anthropic: Claude 3.7 Sonnet leaked benchmarks (40% better reasoning)
-• Google: Gemini 2.5 Pro API access expanding
-• Microsoft: Copilot+ PC sales hit 5M units
+Tired of writing commit messages?
 
-Pattern: Everything's getting cheaper and faster.
+```bash
+#!/bin/bash
+git diff --cached | \
+  curl -X POST https://api.anthropic.com/v1/messages \
+  -H "x-api-key: $ANTHROPIC_KEY" \
+  -d '{"model":"claude-sonnet-4-20260101", ...}'
+```
 
-My take: Price wars = good for devs.
+Returns: "feat: add user auth with JWT"
 
-Which model are you betting on?
-#AIWeekly #TechNews
+Time: 30 minutes
+Value: Never write a boring commit message again
+
+Full gist dropping tomorrow!
+#WeekendProject #Git #AI
 ```
 
 #### 晚 20:00 - 周六互动
 ```
-🌙 Saturday Night Vibes:
+🌙 Saturday Night Show & Tell:
 
-What's your "guilty pleasure" dev tool?
+What did you build this week?
+
+Not "planning to build."
+Actually shipped.
 
 Mine:
-• Over-engineering simple scripts
-• Custom VS Code themes (switch weekly)
-• Reading HN comments instead of coding
+• AI note search (2 hours, works great)
+• Automated commit messages (30 min, time saver)
+• This Twitter account (24 days, 300+ followers)
 
-We all have one. No judgment here 😄
+Small wins compound.
 
-Drop yours below! 👇
-#SaturdayNight #DevLife #Fun
+Drop your ship below! 👇
+#SaturdayNight #ShipIt #BuildInPublic
 ```
 
 ---
 
-### 第 29 天（2026-04-05 周日）
-
-#### 早 9:00 - 周日思考
-```
-☕ Sunday Reflection:
-
-Spent 6 months building "perfect" AI workflows.
-
-Result: Used them for 2 weeks, abandoned.
-
-Lesson:
-Complexity is the enemy of adoption.
-
-Now I use:
-• 3 tools max
-• No custom scripts
-• Zero maintenance
-
-Simple scales. Complex fails.
-
-What's your simplest AI setup?
-#SundayThoughts #Simplicity #AI
-```
-
-#### 午 12:00 - 技术深度
-```
-🤓 Deep Dive: Why RAG Still Matters (2026 Edition)
-
-Everyone's hyped on fine-tuning.
-But RAG wins for most use cases:
-
-Pros:
-• No retraining needed
-• Data stays up-to-date
-• Cheaper (one model, many queries)
-• Easier to debug
-
-Cons:
-• Slower than fine-tuned
-• Context window limits
-
-Verdict: Start with RAG. Fine-tune only if you must.
-
-Building RAG this week. Tutorial coming.
-#RAG #AI #MachineLearning
-```
-
-#### 晚 20:00 - 周日准备
-```
-🌙 Week 6 Preview:
-
-Goals:
-• 21 posts (3x daily, consistency is key)
-• 1 deep-dive thread (RAG tutorial)
-• Engage with 10+ accounts daily
-
-Focus: Quality > Quantity.
-
-Last week's winner: AI note search tutorial
-This week's bet: RAG deep dive
-
-What's your Week 6 goal?
-#SundayPrep #Goals #buildinpublic
-```
-
----
-
-### 第 30 天（2026-04-06 周一）
-
-#### 早 9:00 - 工具实战
-```
-🔥 Tool Monday: Cursor Composer
-
-New feature drop. Tested all weekend:
-
-What it does:
-• Multi-file edits in one go
-• Understands project structure
-• Suggests related changes
-
-What broke:
-• Large refactors (still risky)
-• Test files (needs context)
-
-Rating: 8/10 for features, 6/10 for reliability.
-
-Worth upgrading? If you're on Cursor, yes.
-#Cursor #DevTools #Monday
-```
-
-#### 午 12:00 - 行业观察
-```
-📈 AI Startup Reality:
-
-Raised $10M? Congrats.
-Burn rate: $1M/month.
-Runway: 10 months.
-
-Most AI startups are:
-• Wrappers around GPT/Claude
-• No defensible moat
-• Racing to bottom on price
-
-Survivors will be:
-• Vertical-specific (deep domain)
-• Proprietary data
-• Actual tech, not marketing
-
-Build something real.
-#AIStartups #VentureCapital #Reality
-```
-
-#### 晚 20:00 - 教程系列
-```
-🧵 Coming Tomorrow: RAG from Scratch
-
-What you'll build:
-• Document ingestion pipeline
-• Embedding generation
-• Vector search with ChromaDB
-• Query interface (natural language)
-
-Tech stack:
-• Python
-• LangChain (optional)
-• ChromaDB
-• OpenAI/Claude API
-
-Time: 3-4 hours
-Level: Intermediate
-
-Want early access? Follow + turn on notifications 🔔
-#RAG #Tutorial #AI
-```
-
----
-
-### 第 31 天（2026-04-07 周二）
-
-#### 早 9:00 - 教程 Part 1
-```
-🧵 RAG Tutorial Part 1/5: Setup & Ingestion
-
-Step 1: Install deps
-```bash
-pip install langchain chromadb openai
-```
-
-Step 2: Prepare documents
-• PDFs, Markdown, TXT - all work
-• One folder: /docs
-• Keep it organized
-
-Step 3: Load documents
-```python
-from langchain.document_loaders import DirectoryLoader
-loader = DirectoryLoader('./docs')
-docs = loader.load()
-```
-
-Next: Chunking strategy 👇
-#RAG #Tutorial #Python
-```
-
-#### 午 12:00 - 教程 Part 2
-```
-🧵 RAG Tutorial Part 2/5: Chunking Strategy
-
-Bad chunking = bad results.
-
-My approach:
-• 500-1000 tokens per chunk
-• 100-200 token overlap (context!)
-• Split on headings, not random
-
-```python
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-
-splitter = RecursiveCharacterTextSplitter(
-    chunk_size=800,
-    chunk_overlap=150
-)
-chunks = splitter.split_documents(docs)
-```
-
-Next: Embeddings 👇
-#RAG #NLP #AI
-```
-
-#### 晚 20:00 - 教程 Part 3-5
-```
-🧵 RAG Tutorial Part 3-5 (Complete!)
-
-Part 3: Generate embeddings
-Part 4: Store in vector DB
-Part 5: Query & retrieve
-
-Full code: [GitHub repo in bio]
-
-Key insight:
-RAG is 20% code, 80% data quality.
-
-Garbage in = garbage out.
-Clean your docs first.
-
-Questions? Drop them below! 👇
-#RAG #Tutorial #BuildInPublic
-```
-
----
-
-### 第 32 天（2026-04-08 周三）
-
-#### 早 9:00 - 工具对比
-```
-⚖️ Tool Wars: LangChain vs LlamaIndex
-
-Used both for RAG projects. Here's the breakdown:
-
-LangChain:
-✅ More integrations
-✅ Better docs
-❌ Heavy, complex
-
-LlamaIndex:
-✅ RAG-first design
-✅ Cleaner API
-❌ Smaller community
-
-My pick: LlamaIndex for RAG, LangChain for agents.
-
-Both work. Choose based on use case.
-#LangChain #LlamaIndex #AI
-```
-
-#### 午 12:00 - 快速技巧
-```
-💡 Quick Tip: Prompt Caching
-
-OpenAI/Claude now support prompt caching.
-
-What it does:
-• Cache system prompts
-• Reuse across requests
-• Save 50-80% on repeated queries
-
-How to enable:
-• OpenAI: cache_prefix in API call
-• Claude: Automatic for long contexts
-
-Savings: $50-100/mo for heavy users.
-
-Free performance boost. Use it.
-#AITips #Optimization #DevTips
-```
-
-#### 晚 20:00 - 周三互动
-```
-🌙 Wednesday Check-in:
-
-How's your Week 6 going?
-
-Mine:
-• Posted 15/21 times (on track)
-• RAG tutorial: 500+ impressions
-• Engagement: Up 20%
-
-Struggling: Finding time for deep work.
-
-Your week? Wins and challenges below! 👇
-#WednesdayCheckIn #buildinpublic #Community
-```
-
----
-
-### 第 33 天（2026-04-09 周四）
-
-#### 早 9:00 - 代码质量
-```
-💻 Code Review with AI:
-
-My workflow (saves 2+ hours/week):
-
-1. Write code (first draft)
-2. AI review: "Find bugs and edge cases"
-3. AI suggest: "How would you test this?"
-4. Manual review (trust but verify)
-5. Commit with AI-generated message
-
-Tools: Cursor + Claude
-Time saved: 10+ hours/month
-
-AI won't replace code review.
-But it makes you 10x better at it.
-#CodeReview #AI #BestPractices
-```
-
-#### 午 12:00 - 前沿快讯
-```
-📰 AI News (April 7-9, 2026)
-
-• Stability AI: SD4 released (photorealistic, 2x faster)
-• Hugging Face: New agent framework (open source)
-• AWS: Bedrock price cut (30% cheaper)
-• xAI: Grok-3 API access (developers only)
-
-Trend: Infrastructure getting cheaper, models getting better.
-
-Good time to build.
-
-What are you working on?
-#AInews #TechNews #April
-```
-
-#### 晚 20:00 - 个人思考
-```
-🌙 Honest Take:
-
-AI content creation is harder than expected.
-
-Reality check:
-• 3x daily posting = 90 posts/month
-• Quality takes time (research, writing, editing)
-• Engagement requires genuine interaction
-
-But:
-• Consistency compounds
-• Small audience > large inactive one
-• Building in public = accountability
-
-Day 30/90. Still going.
-
-Why do you create content?
-#buildinpublic #Honest #ContentCreator
-```
-
----
-
-### 第 34 天（2026-04-10 周五）
-
-#### 早 9:00 - 周五工具
-```
-🛠️ Friday Favorites: AI Dev Stack 2026
-
-My daily drivers after 6 months:
-
-Coding: Cursor (GPT-4 + Claude)
-Research: Perplexity Pro
-Writing: Claude + Grammarly
-Design: Midjourney + Figma AI
-
-Total cost: ~$80/mo
-Time saved: 20+ hours/week
-
-ROI: Insane.
-
-What's in your AI stack?
-#AITools #DevStack #Friday
-```
-
-#### 午 12:00 - 周末挑战
-```
-🎯 Weekend Build Challenge:
-
-Build a CLI tool that uses AI.
-
-Ideas:
-• Git commit message generator
-• Code explanation tool
-• API documentation reader
-• Log file analyzer
-
-Constraints:
-• Max 4 hours
-• Must be usable (not just demo)
-• Share on Twitter Sunday
-
-I'm building: AI-powered grep (semantic search in codebase)
-
-Who's in? 🙋
-#WeekendChallenge #CLI #AI
-```
-
-#### 晚 20:00 - 周五总结
-```
-🌙 Week 6 Wrap-up:
-
-Stats:
-• Posts: 21/21 ✅ (perfect week)
-• Best performer: RAG tutorial thread
-• Engagement: +25% vs Week 5
-
-Lesson learned:
-Tutorials > Hot takes.
-Depth beats breadth.
-
-Week 7 plan:
-• More deep dives
-• Less news commentary
-• Build in public: CLI tool
-
-What worked for you this week?
-#FridayWrapUp #buildinpublic #WeeklyReview
-```
-
----
-
-## 📊 字数统计汇总（Day 28-34）
-
-| 日期 | 早 9:00 | 午 12:00 | 晚 20:00 |
-|------|--------|---------|---------|
-| Day 28 | ~250 字符 | ~240 字符 | ~240 字符 |
-| Day 29 | ~240 字符 | ~250 字符 | ~240 字符 |
-| Day 30 | ~250 字符 | ~240 字符 | ~240 字符 |
-| Day 31 | ~240 字符 | ~240 字符 | ~240 字符 |
-| Day 32 | ~240 字符 | ~230 字符 | ~240 字符 |
-| Day 33 | ~250 字符 | ~240 字符 | ~250 字符 |
-| Day 34 | ~240 字符 | ~240 字符 | ~250 字符 |
-
-**平均每条**：约 243 字符（符合 200-280 字符规范）
-
----
-
-## 🎨 配图提示词（Day 28-34）
-
-### Day 28（周六）
-- **早 9:00**：`Search interface on laptop screen, clean minimalist design, blue and white color scheme, 1:1, tech productivity`
-- **午 12:00**：`News feed visualization, floating headlines, digital aesthetic, dark background, 1:1, tech news theme`
-- **晚 20:00**：`Relaxed evening setup, gaming keyboard, warm lighting, cozy vibe, 1:1, lifestyle photography`
-
-### Day 29（周日）
-- **早 9:00**：`Simple desk setup, single notebook, minimal objects, calm Sunday morning, 1:1, minimalist aesthetic`
-- **午 12:00**：`Vector database diagram, nodes and connections, technical illustration, blue tones, 1:1, educational`
-- **晚 20:00**：`Weekly planner with goals, coffee, Sunday evening prep, 1:1, productivity theme`
-
-### Day 30-34
-（按同样风格生成，极简科技风，黑/白/蓝配色）
-
----
-
-## ✅ 内容自检清单（Day 28-34）
-
-- [x] 100% 英文（无中文）
-- [x] 每条 200-280 字符
-- [x] 有具体数据和观点（非模板）
-- [x] 2-3 个相关 hashtag
-- [x] 有互动引导（自然不刻意）
-- [x] 去 AI 味（无"workflow""赋能"等词）
-- [x] 口语化，像真人写的
-- [x] 无占位符（XXX 已全部替换）
-- [x] 热点内容已标注"待核实"（午间快讯）
-
----
-
-*生成时间：2026-04-04 07:25*
-*下次生成：Day 35-41（预计 2026-04-10 前完成）*
+*生成时间：2026-04-04 07:55*
+*下次生成：Day 29-35（预计 2026-04-10 前完成）*
